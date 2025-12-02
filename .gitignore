@@ -1,0 +1,10 @@
+# Logs
+ping_log.txt
+
+# Virtual environments
+venv/
+env/
+
+# Byte-compiled files
+__pycache__/
+*.pyc
